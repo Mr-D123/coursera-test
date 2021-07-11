@@ -1,1 +1,293 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T09:40:44.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.5" etag="RwV-FqGtOp5d2HR9u3Cx" type="github"><diagram id="kGLVglaXAjxiij-rEtC3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-11T14:52:17.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="VXRoOBfkx90EPhk5kUbu" version="14.8.5" type="github">
+  <diagram id="kGLVglaXAjxiij-rEtC3" name="Page-1">
+    <mxGraphModel dx="1436" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-1" target="MuQRw3Lf0FFxiaVKqVAK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-1" value="&lt;h1&gt;A0.Introduction&lt;/h1&gt;&lt;div&gt;This is text based adventure game.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Proceed further by pressing num keys like 1, 2, 3.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.542;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-4" target="MuQRw3Lf0FFxiaVKqVAK-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="310" />
+              <mxPoint x="370" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-4" target="MuQRw3Lf0FFxiaVKqVAK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-4" value="&lt;h1&gt;A1.Waking up&lt;/h1&gt;&lt;div&gt;&lt;div&gt;You woke up feeling weak and thirsty. You feel something itchy in your throat. You notice all other sleep chambers are shut. Perhaps a malfunction in the ship woke you earlier than the rest.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What will you do ? :&lt;/div&gt;&lt;div&gt;1. Take bath&lt;/div&gt;&lt;div&gt;2. Chug some water&lt;/div&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-6" value="&lt;h1&gt;D1.Choked&amp;nbsp;&lt;/h1&gt;&lt;div&gt;A plastic shard was in your throat. It cut your throat from the inside. You bled to death.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Game Over.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Wanna have a go again ?&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to restart or press 2 to quit&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1590" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-7" target="MuQRw3Lf0FFxiaVKqVAK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-7" value="&lt;h1&gt;A2.Name ?&lt;/h1&gt;&lt;div&gt;You try to remember your name. The front of your sleep chamber reads &lt;i&gt;...kash&lt;/i&gt;.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What is your name ? :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Hoekash&lt;/div&gt;&lt;div&gt;2.AAkash&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="621" y="120" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-10" target="MuQRw3Lf0FFxiaVKqVAK-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="1490" />
+              <mxPoint x="1940" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-10" target="MuQRw3Lf0FFxiaVKqVAK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-10" value="&lt;h1&gt;A3. Cafeteria&lt;/h1&gt;&lt;div&gt;After remembering your name, you feel the growl of your stomach. You go into the cafeteria and find it abandoned of course. There is a food dispensor. Above it is the menu for various cuisines.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What do you want to eat ? :&lt;/div&gt;&lt;div&gt;1. Any Indian curry&lt;/div&gt;&lt;div&gt;2. Sauerkraut&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-13" value="&lt;h1&gt;D2. Too spicy&lt;/h1&gt;&lt;div&gt;The curry was too spicy. Your internal organs could not handle the heat after such a long time. At least it was tasty and you died a rather delicious death.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1590" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-15" target="MuQRw3Lf0FFxiaVKqVAK-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="1320" />
+              <mxPoint x="2280" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-15" target="MuQRw3Lf0FFxiaVKqVAK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-15" value="&lt;h1&gt;A4. What now ?&lt;/h1&gt;&lt;div&gt;Bland and tasteless but the dish was enough to charge you up.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The lights flicker. The ship shakes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What do you want to do ? :&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Investigate the cause of the malfunction that wake you up&lt;/div&gt;&lt;div&gt;2.Go back to sleep&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="120" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-17" value="&lt;h1&gt;D3. Lazy ass&lt;/h1&gt;&lt;div&gt;You went back to cryo sleep thinking it was nothing but you and your crew never woke up again and the Control lost contact of the ship.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1590" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-19" target="MuQRw3Lf0FFxiaVKqVAK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-19" target="MuQRw3Lf0FFxiaVKqVAK-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-19" value="&lt;h1&gt;A5. Hole&amp;nbsp;&amp;nbsp;&lt;/h1&gt;&lt;div&gt;You came to find out that a small meteor teared a hole in the storage rooms.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Patch it up&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. Eject the rooms.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="120" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-21" target="MuQRw3Lf0FFxiaVKqVAK-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-21" target="MuQRw3Lf0FFxiaVKqVAK-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-21" target="MuQRw3Lf0FFxiaVKqVAK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-21" value="&lt;h1&gt;A6.Slim&lt;/h1&gt;&lt;div&gt;You went into the room and somehow patched it up. But you notice something else. There&#39;s a trail of slim leading up to that hole.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Mop it up&lt;/div&gt;&lt;div&gt;2. Activate security protocols&lt;/div&gt;&lt;div&gt;3.Arm your self up first&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="120" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-22" target="MuQRw3Lf0FFxiaVKqVAK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-22" target="MuQRw3Lf0FFxiaVKqVAK-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-22" value="&lt;h1&gt;A7.The Mission&lt;/h1&gt;&lt;div&gt;While moping, you remember the sole purpose of you being here, your mission. You rush towards the embryo chamber which preserve the future of mankind and immediately seal it up.&lt;/div&gt;&lt;div&gt;You are out of breathe. Suddenly you hear a growl.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Run to the control room&lt;/div&gt;&lt;div&gt;2. Make a stand&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="340" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-23" target="MuQRw3Lf0FFxiaVKqVAK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-23" target="MuQRw3Lf0FFxiaVKqVAK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-23" value="&lt;h1&gt;A8.Control Room&amp;nbsp;&lt;/h1&gt;&lt;div&gt;You managed to enter the Control room.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Contact Earth&lt;/div&gt;&lt;div&gt;2.Awake the rest of the crew&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="580" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-26" target="MuQRw3Lf0FFxiaVKqVAK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-26" value="&lt;h1&gt;A9.The line is busy&lt;/h1&gt;&lt;div&gt;You contact Earth but no one picks up.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Awake the rest of the crew&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="810" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-84" target="MuQRw3Lf0FFxiaVKqVAK-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2540" y="1250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2580" y="700" />
+              <mxPoint x="2580" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-29" target="MuQRw3Lf0FFxiaVKqVAK-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-29" value="&lt;h1&gt;A10.whining&lt;/h1&gt;&lt;div&gt;The rest of the crew wakes up. You squish your way to the sleeping quarters through a small duct. Your crewmates are complaining why you wake them up.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Explain about the slime and the hostile creature on board.&lt;/div&gt;&lt;div&gt;2.Tell them you wanted to have an orgy.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="570" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-32" target="MuQRw3Lf0FFxiaVKqVAK-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-32" target="MuQRw3Lf0FFxiaVKqVAK-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-32" value="&lt;h1&gt;B1.Fool&lt;/h1&gt;&lt;div&gt;Ejected the rooms. You feel pretty intelligent. You hear a growl coming from the hallway.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Confront the creature&lt;/div&gt;&lt;div&gt;2.Arm yourself up first&lt;/div&gt;&lt;div&gt;3.Activate security protocols&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="350" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-33" value="&lt;h1&gt;D4. Really ?&lt;/h1&gt;&lt;div&gt;The crewmates locked you up thinking the space madness has got to you.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What did you expect ?&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="1590" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2910" y="1600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1630" y="1190" />
+              <mxPoint x="2910" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.317;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-36" target="MuQRw3Lf0FFxiaVKqVAK-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1446" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-36" value="&lt;h1&gt;B2.Confrontation&lt;/h1&gt;&lt;div&gt;You walk towards the growl and encounter a black haired ugly looking fowl smelling creature drooling slime all over the floor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Punch it as hard as you can&lt;/div&gt;&lt;div&gt;2.Attempt a backflip&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="570" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-38" value="&lt;h1&gt;D5. Ryan ref&lt;/h1&gt;&lt;div&gt;You performed a backflip snap the bad guy&#39;s neck and saved the day. Oh wait wrong universe.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="1590" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-40" target="MuQRw3Lf0FFxiaVKqVAK-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-40" target="MuQRw3Lf0FFxiaVKqVAK-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-40" target="MuQRw3Lf0FFxiaVKqVAK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-40" value="&lt;h1&gt;B3.Ouch&lt;/h1&gt;&lt;div&gt;The creature tore your arm off. You are bleeding all over the place.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Make a run for the Armory&lt;/div&gt;&lt;div&gt;2.Make a run for the medic room.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="830" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-42" target="MuQRw3Lf0FFxiaVKqVAK-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-42" target="MuQRw3Lf0FFxiaVKqVAK-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-42" value="&lt;h1&gt;B4. Uh Oh&lt;/h1&gt;&lt;div&gt;You managed to flew away but can&#39;t find the armory as you ejected the storage rooms.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Make a run for the medic room&lt;/div&gt;&lt;div&gt;2.Pray&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1050" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-44" value="&lt;h1&gt;D6. oh god help&lt;/h1&gt;&lt;div&gt;The creature devoured you while you were chanting.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="1590" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-46" target="MuQRw3Lf0FFxiaVKqVAK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-46" target="MuQRw3Lf0FFxiaVKqVAK-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-46" value="&lt;h1&gt;B5. Band Aid&lt;/h1&gt;&lt;div&gt;You entered the medic room. Bandaged your self up. After witnessing the horror. You are thinking to abandon the ship through an escape pod and leave everybody to die.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Abandon&lt;/div&gt;&lt;div&gt;2.Stay, go back and awake the crew.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1120" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-52" value="&lt;h1&gt;E1.Selfish&lt;/h1&gt;&lt;div&gt;You escaped and abandoned your fellow crewmates and the great mission of yours.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1370" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.48;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-54" target="MuQRw3Lf0FFxiaVKqVAK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-54" target="MuQRw3Lf0FFxiaVKqVAK-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3880" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-54" value="&lt;h1&gt;A11.Yes Boss&lt;/h1&gt;&lt;div&gt;You berated them, and ordered them to follow you.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Make them the bait and then use the space vacuum to eject the creature out.&lt;/div&gt;&lt;div&gt;2.Run together as a group towards the creature.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="350" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-84" target="MuQRw3Lf0FFxiaVKqVAK-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3490" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-58" target="MuQRw3Lf0FFxiaVKqVAK-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2330" y="550" />
+              <mxPoint x="440" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-58" value="&lt;h1&gt;A12.Sucked Out&lt;/h1&gt;&lt;div&gt;You averted the crisis as the creature was sucked out into the void. Your crewmates are completely fine. You prepare yourself to go back to cryo sleep. But then it struck your mind, the great mission you are here for. You run towards the embryo chamber and what you see makes you puke. Thousands of alien eggs waiting to be hatched. Their food, human embryos.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Light them up&lt;/div&gt;&lt;div&gt;2.Eject the chamber&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="90" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-60" value="&lt;h1&gt;D7.Fire fight gone wrong&lt;/h1&gt;&lt;div&gt;You light them up but you ran out of fuel quick. The eggs hatched and the infants attack you and the crew. The ship is doomed.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="1589" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-62" value="&lt;h1&gt;E2.Win but at what cost&lt;/h1&gt;&lt;div&gt;You successfully eject the chamber. You saved yourself and the crew but the sole purpose of your journey is now floating into the abyss.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1370" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-65" value="&lt;h1&gt;A6a.Securtiy Proto&lt;/h1&gt;&lt;div&gt;You activate the security protocols. The computer tells you there is a un-registered being on the ship. The computer cannot risk the contamination and navigates the ship to land on the nearest habitable planet on the only available hyperdrive.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Override and navigate to the original designated planet&lt;/div&gt;&lt;div&gt;2.Go with it&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="470" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-66" target="MuQRw3Lf0FFxiaVKqVAK-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-66" value="&lt;h1&gt;A6a1.Crashed&lt;/h1&gt;&lt;div&gt;The ship crash lands on a strange planet. The unregistered heat signature is now gone. Your crew is also dead. You step outside of your ship and find yourself surrounded by the green slimy eggs and multiple hairy mammoths of a creature.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Shoot until the last bullet.&lt;/div&gt;&lt;div&gt;2.Shoot yourself&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="700" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-67" target="MuQRw3Lf0FFxiaVKqVAK-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3330" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-67" target="MuQRw3Lf0FFxiaVKqVAK-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-67" value="&lt;h1&gt;A6a1.1.last stand&lt;/h1&gt;&lt;div&gt;You exhausted your entire clip except one bullet.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Commit suicide&lt;/div&gt;&lt;div&gt;2. Pray&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1000" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-68" value="&lt;h1&gt;E3.Saved!&lt;/h1&gt;&lt;div&gt;Your prayers have been answered. The&amp;nbsp; planet is actually a Russian hunting ground and your ship landed on the forest reserve of the planet. The Russians came in guns blazing slaughtering every creature and in the end saving you and your mission from eternal damnation.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1370" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-71" value="&lt;h1&gt;D8.Suicide&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;You dead bro. Nothing to see here.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="1590" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-72" value="&lt;h1&gt;D9.Strength in groups they say&lt;/h1&gt;&lt;div&gt;The creature ate you all up.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3921" y="1589" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-77" value="&lt;h1&gt;B3a.Armory&lt;/h1&gt;&lt;div&gt;You go into the armory and arm yourself up to the teeth. While coming out of the armory, you encounter the vicious creature drooling slime all over, covered in thick black fur.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Use the tickle&lt;/div&gt;&lt;div&gt;2.Unleash the fury of AK-47&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="340" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-78" value="&lt;h1&gt;E4.A Hero&lt;/h1&gt;&lt;div&gt;You used the Russian Tikhail Bomb, also known as the tickle. The bomb vaporises the creature and its belly explodes releasing thousands of unborns. You breathed a sigh of relief as the creature could have multiplied.&amp;nbsp;&lt;/div&gt;&lt;div&gt;You saved the ship and averted the crises.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1370" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-29" target="MuQRw3Lf0FFxiaVKqVAK-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2620" y="1590" as="targetPoint" />
+            <mxPoint x="2490" y="700" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-84" value="&lt;h1&gt;D10.Ak kant handle&lt;/h1&gt;&lt;div&gt;You unleash hell on the creature but it dodged every bullet. The creature leapt at you and devoured you up&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="1590" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="MuQRw3Lf0FFxiaVKqVAK-58" target="MuQRw3Lf0FFxiaVKqVAK-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3470" y="1589" as="targetPoint" />
+            <mxPoint x="2500" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuQRw3Lf0FFxiaVKqVAK-87" value="&lt;h1&gt;A6a2.Same route&lt;/h1&gt;&lt;div&gt;You set your original course again.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Go to the armory&lt;/div&gt;&lt;div&gt;2.Awake the members&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;gradientColor=#ffffff;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="250" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
